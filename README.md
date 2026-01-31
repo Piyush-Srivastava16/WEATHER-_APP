@@ -27,7 +27,7 @@ CSS3 – Styling & layout
 JavaScript (Vanilla JS) – Logic & API handling
 
 OpenWeatherMap API – Weather data
-
+```bash
 weather-app/
 │
 ├── index.html
@@ -35,4 +35,4 @@ weather-app/
 ├── main.js
 ├── bg.jpg
 └── README.md
-
+```
