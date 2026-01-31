@@ -3,7 +3,7 @@
 A simple and responsive Weather App built using HTML, CSS, and JavaScript that fetches real-time weather data from the OpenWeatherMap API.
 Users can search for any city and instantly see the current temperature, weather condition, and min/max temperatures.
 
-#🚀 Features
+🚀 Features
 
 🔍 Search weather by city name
 
@@ -16,3 +16,23 @@ Users can search for any city and instantly see the current temperature, weather
 📅 Shows current date
 
 🎨 Clean UI with background image and gradient overlay
+
+
+🛠️ Technologies Used
+
+HTML5 – Structure
+
+CSS3 – Styling & layout
+
+JavaScript (Vanilla JS) – Logic & API handling
+
+OpenWeatherMap API – Weather data
+
+weather-app/
+│
+├── index.html
+├── main.css
+├── main.js
+├── bg.jpg
+└── README.md
+
